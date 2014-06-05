@@ -376,6 +376,7 @@ GameManager.prototype.labels = {
 };
 
 GameManager.prototype.pointValues = {
+  "Hydrogen":0,
   "Deuteron":1,
   "3Helium":1.5,
   "4Helium":2,
